@@ -1,0 +1,81 @@
+2015-05-01 22:18:30.382 gridGame[1302:311608] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Data/Application/49FAA090-9B6D-4F85-8896-0B61F5435F70/Library/Cookies/Cookies.binarycookies
+2015-05-01 22:18:30.791 gridGame[1302:311608] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-01 22:18:30.791 gridGame[1302:311608] Multi-tasking -> Device: YES, App: YES
+2015-05-01 22:18:30.823 gridGame[1302:311608] Unlimited access to network resources
+2015-05-01 22:18:31.372 gridGame[1302:311608] [CDVTimer][keyboard] 0.062048ms
+2015-05-01 22:18:31.372 gridGame[1302:311608] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-05-01 22:18:31.904 gridGame[1302:311608] Resetting plugins due to page load.
+2015-05-01 22:18:32.194 gridGame[1302:311608] Finished load of: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Bundle/Application/D9104935-B9D6-4873-AFD6-D94B74FEC68F/gridGame.app/www/index.html#/app/intro
+2015-05-01 22:20:08.239 gridGame[1544:313420] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Data/Application/2211676C-E3B1-4291-8A3D-E282124DE56D/Library/Cookies/Cookies.binarycookies
+2015-05-01 22:20:08.331 gridGame[1544:313420] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-01 22:20:08.331 gridGame[1544:313420] Multi-tasking -> Device: YES, App: YES
+2015-05-01 22:20:08.334 gridGame[1544:313420] Unlimited access to network resources
+2015-05-01 22:20:08.414 gridGame[1544:313420] [CDVTimer][keyboard] 0.050962ms
+2015-05-01 22:20:08.414 gridGame[1544:313420] [CDVTimer][TotalPluginStartup] 0.203013ms
+2015-05-01 22:20:08.502 gridGame[1544:313420] Resetting plugins due to page load.
+2015-05-01 22:20:08.652 gridGame[1544:313420] Finished load of: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Bundle/Application/A06396C7-1E93-4792-A67C-FD52C24CC73B/gridGame.app/www/index.html#/app/intro
+2015-05-01 22:21:58.096 gridGame[1735:314838] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Data/Application/4E75BEE7-5D28-4C78-BCFE-216114FEE58B/Library/Cookies/Cookies.binarycookies
+2015-05-01 22:21:58.163 gridGame[1735:314838] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-01 22:21:58.163 gridGame[1735:314838] Multi-tasking -> Device: YES, App: YES
+2015-05-01 22:21:58.166 gridGame[1735:314838] Unlimited access to network resources
+2015-05-01 22:21:58.238 gridGame[1735:314838] [CDVTimer][keyboard] 0.046015ms
+2015-05-01 22:21:58.238 gridGame[1735:314838] [CDVTimer][TotalPluginStartup] 0.196993ms
+2015-05-01 22:21:58.303 gridGame[1735:314838] Resetting plugins due to page load.
+2015-05-01 22:21:58.449 gridGame[1735:314838] Finished load of: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Bundle/Application/5C857DFA-8C35-466E-9B90-34D3D9D8C122/gridGame.app/www/index.html#/app/intro
+2015-05-01 22:22:22.003 gridGame[1918:315552] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Data/Application/3B7DD6B5-BE40-4EC4-830E-633C79B7909F/Library/Cookies/Cookies.binarycookies
+2015-05-01 22:22:22.106 gridGame[1918:315552] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-01 22:22:22.107 gridGame[1918:315552] Multi-tasking -> Device: YES, App: YES
+2015-05-01 22:22:22.110 gridGame[1918:315552] Unlimited access to network resources
+2015-05-01 22:22:22.199 gridGame[1918:315552] [CDVTimer][keyboard] 0.064015ms
+2015-05-01 22:22:22.199 gridGame[1918:315552] [CDVTimer][TotalPluginStartup] 0.248969ms
+2015-05-01 22:22:22.245 gridGame[1918:315552] Resetting plugins due to page load.
+2015-05-01 22:22:22.405 gridGame[1918:315552] Finished load of: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Bundle/Application/1760BC4E-2B6C-49A1-AC83-1FAB92116F4B/gridGame.app/www/index.html#/app/intro
+2015-05-01 22:23:05.668 gridGame[2102:316570] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Data/Application/FB7D0826-4CF1-4F8C-8A59-23C0A7C63BA7/Library/Cookies/Cookies.binarycookies
+2015-05-01 22:23:05.740 gridGame[2102:316570] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-01 22:23:05.740 gridGame[2102:316570] Multi-tasking -> Device: YES, App: YES
+2015-05-01 22:23:05.742 gridGame[2102:316570] Unlimited access to network resources
+2015-05-01 22:23:05.815 gridGame[2102:316570] [CDVTimer][keyboard] 0.046015ms
+2015-05-01 22:23:05.815 gridGame[2102:316570] [CDVTimer][TotalPluginStartup] 0.196993ms
+2015-05-01 22:23:05.873 gridGame[2102:316570] Resetting plugins due to page load.
+2015-05-01 22:23:06.017 gridGame[2102:316570] Finished load of: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Bundle/Application/B10CCBCD-89F4-40F5-BEFE-2EB949E6E275/gridGame.app/www/index.html#/app/intro
+2015-05-01 22:23:57.289 gridGame[2286:317433] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Data/Application/CBFF6BF9-BA64-42E8-BE7F-91270CAA5C42/Library/Cookies/Cookies.binarycookies
+2015-05-01 22:23:57.404 gridGame[2286:317433] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-01 22:23:57.404 gridGame[2286:317433] Multi-tasking -> Device: YES, App: YES
+2015-05-01 22:23:57.406 gridGame[2286:317433] Unlimited access to network resources
+2015-05-01 22:23:57.493 gridGame[2286:317433] [CDVTimer][keyboard] 0.048995ms
+2015-05-01 22:23:57.493 gridGame[2286:317433] [CDVTimer][TotalPluginStartup] 0.432014ms
+2015-05-01 22:23:57.541 gridGame[2286:317433] Resetting plugins due to page load.
+2015-05-01 22:23:57.684 gridGame[2286:317433] Finished load of: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Bundle/Application/D97CE182-7532-4A59-B594-7502BCA4DC9B/gridGame.app/www/index.html#/app/intro
+2015-05-01 22:25:00.299 gridGame[2470:318600] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Data/Application/C0953463-6FCC-4ED7-A008-F6152B4BE37C/Library/Cookies/Cookies.binarycookies
+2015-05-01 22:25:00.412 gridGame[2470:318600] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-01 22:25:00.412 gridGame[2470:318600] Multi-tasking -> Device: YES, App: YES
+2015-05-01 22:25:00.415 gridGame[2470:318600] Unlimited access to network resources
+2015-05-01 22:25:00.500 gridGame[2470:318600] [CDVTimer][keyboard] 0.056982ms
+2015-05-01 22:25:00.501 gridGame[2470:318600] [CDVTimer][TotalPluginStartup] 0.222981ms
+2015-05-01 22:25:00.548 gridGame[2470:318600] Resetting plugins due to page load.
+2015-05-01 22:25:00.699 gridGame[2470:318600] Finished load of: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Bundle/Application/C2D5D110-B62D-4639-91E1-811F2C271C83/gridGame.app/www/index.html#/app/intro
+2015-05-01 22:25:19.282 gridGame[2654:319310] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Data/Application/0F808A08-2FA1-449E-8922-B0E824125769/Library/Cookies/Cookies.binarycookies
+2015-05-01 22:25:19.392 gridGame[2654:319310] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-01 22:25:19.392 gridGame[2654:319310] Multi-tasking -> Device: YES, App: YES
+2015-05-01 22:25:19.396 gridGame[2654:319310] Unlimited access to network resources
+2015-05-01 22:25:19.485 gridGame[2654:319310] [CDVTimer][keyboard] 0.062048ms
+2015-05-01 22:25:19.485 gridGame[2654:319310] [CDVTimer][TotalPluginStartup] 0.212014ms
+2015-05-01 22:25:19.532 gridGame[2654:319310] Resetting plugins due to page load.
+2015-05-01 22:25:19.690 gridGame[2654:319310] Finished load of: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Bundle/Application/D62A1142-B10D-42BE-9FBF-2BCFBE2536F0/gridGame.app/www/index.html#/app/intro
+2015-05-01 22:43:17.484 gridGame[2654:319310] CDVWebViewDelegate: Navigation started when state=1
+2015-05-01 22:43:17.485 gridGame[2654:319310] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-05-02 14:07:29.015 gridGame[5666:593194] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Data/Application/64001C6C-B1FE-4066-977B-AAD93CE88249/Library/Cookies/Cookies.binarycookies
+2015-05-02 14:07:29.417 gridGame[5666:593194] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-02 14:07:29.418 gridGame[5666:593194] Multi-tasking -> Device: YES, App: YES
+2015-05-02 14:07:29.440 gridGame[5666:593194] Unlimited access to network resources
+2015-05-02 14:07:30.024 gridGame[5666:593194] [CDVTimer][keyboard] 0.128984ms
+2015-05-02 14:07:30.024 gridGame[5666:593194] [CDVTimer][TotalPluginStartup] 0.472009ms
+2015-05-02 14:07:30.360 gridGame[5666:593194] Resetting plugins due to page load.
+2015-05-02 14:07:30.634 gridGame[5666:593194] Finished load of: file:///Users/arthurpatora/Library/Developer/CoreSimulator/Devices/DCF5801F-32E2-4219-BD94-2EC5E4A0DB15/data/Containers/Bundle/Application/B040BD77-49E0-4525-BD5B-C20F58FD6325/gridGame.app/www/index.html#/intro
+2015-05-02 14:07:50.351 gridGame[5666:593194] change
+2015-05-02 14:07:58.852 gridGame[5666:593194] change
+2015-05-02 14:08:07.064 gridGame[5666:593194] change
+2015-05-02 14:08:08.820 gridGame[5666:593194] change
+2015-05-02 14:08:09.391 gridGame[5666:593194] CDVWebViewDelegate: Navigation started when state=1
+2015-05-02 14:08:09.391 gridGame[5666:593194] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-05-02 14:08:09.396 gridGame[5666:593194] change

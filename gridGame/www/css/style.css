@@ -1,0 +1,99 @@
+/* Empty. Add your own CSS if you like */
+
+.slider { height: 100%; text-align: center }
+.scroll { height: 100% }
+.bar.bar-royal .title { color: #FFE98E; }
+.box.slide { height: 100%; background-color: #695016; }
+.content { height: 100%; background-color: #695016; }
+.content:before { content: ''; display: inline-block; height: 40%; vertical-align: middle; margin-right: 0em; margin-top: -2em; }
+#select { display: inline-block; vertical-align: middle; background-color: #F6E089; border-radius: 10px; padding: 5px; margin-top: 15%;}
+.slider-pager .slider-pager-page { color: #886aea; }
+.explanation { position: absolute; bottom: 70px; text-align: center; width: 100%;  color: white; }
+.plus_one { color: #886aea; font-size: 130%;}
+.container_grid { padding-top: 40px; }
+.grid_intro { padding: 0px; border-radius: 10px; background-color: #F6E089 }
+.win { background-color: rgba(0,0,0,0.5); position: absolute; top: 0; right: 0; left: 0; bottom: 0; z-index: 1; border-radius: 10px;}
+.win:before { content: ''; display: inline-block; height: 50%; vertical-align: middle; margin-right: 0em; margin-top: -1.5em; }
+.text_win { display: inline-block; vertical-align: middle; width: 100%; font-size: 3em; color: white; }
+.tile_container { display: inline-block; position: relative; width: 100%; vertical-align: middle; }
+.col { padding: 1px }
+.tile_container:after { content: ''; display: block; margin-top: 100%; }
+.tile { position: absolute; top: 0; bottom: 0; right: 0; left: 0; border-radius: 5px; text-align: center; }
+.tile:hover { -webkit-box-shadow: inset 0px 0px 10px 0px rgba(255,233,142,0.5);
+-moz-box-shadow: inset 0px 0px 10px 0px rgba(255,233,142,0.5);
+box-shadow: inset 0px 0px 10px 0px rgba(255,233,142,0.5);
+cursor: pointer; }
+.tile_text { display: inline-block; vertical-align: middle; color: #5D4663; text-align: center; margin-left: -10%;}
+
+.tile_text { font-size: 3em; }
+
+.tile.size-3 .tile_text { font-size: 3em; }
+.tile.size-7 .tile_text { font-size: 1.2em; }
+.tile.size-8 .tile_text { font-size: 1.2em; }
+.tile.size-9 .tile_text { font-size: 1em; }
+.tile.size-10 .tile_text { font-size: 1em; }
+
+.tile-intro { background-color: #EBB330; }
+.tile-0 { background-color: rgba(201, 154, 42, 1); }
+.tile-1 { background-color: rgba(201, 154, 42, 0.95); }
+.tile-2 { background-color: rgba(201, 154, 42, 0.9); }
+.tile-3 { background-color: rgba(201, 154, 42, 0.85); }
+.tile-4 { background-color: rgba(201, 154, 42, 0.8); }
+.tile-5 { background-color: rgba(201, 154, 42, 0.75); }
+.tile-6 { background-color: rgba(201, 154, 42, 0.7); }
+.tile-7 { background-color: rgba(201, 154, 42, 0.65); }
+.tile-8 { background-color: rgba(201, 154, 42, 0.6); }
+.tile-9 { background-color: rgba(201, 154, 42, 0.55); }
+.tile-10 { background-color: rgba(201, 154, 42, 0.5); }
+
+.border { display: inline-block; vertical-align: middle; height: 100%; width: 0px; }
+
+.next { position: absolute; right: 0; }
+.play { float: right; margin-right: 10px;}
+.previous { float: left; }
+.limit {color: white; margin-top: 20px; font-size: 1.5em;}
+.styled-select { margin-left: 30%; }
+.styled-select select {
+   display: inline-block;
+   background: transparent;
+   color: #695016;
+   padding: 0px;
+   font-size: 1.5em;
+   line-height: 100%;
+   border: 1px solid #695016;
+   border-radius: 5px;
+   height: 34px;
+   vertical-align: middle;
+   margin-top: 10px;
+}
+.label { display: inline-block; font-size: 1.5em; vertical-align: middle; color: #886aea; margin-top: 10px;}
+.label i { font-size: 0.5em; color: #695016; vertical-align: middle; margin-right: 5px;}
+.title_select { width: 100%; border-bottom: 1px solid #695016; padding-bottom: 2px; font-size: 1.5em; text-align: center; }
+.title_select i { float: left; margin-left: 10px; }
+
+.refresh { float: right; color: white; margin-bottom : 20px; margin-top: 20px;}
+.refresh:hover { color: white; }
+
+.menulink { float: left; color: white; margin-bottom : 20px; margin-top: 20px;}
+.menulink:hover { color: white; }
+
+.wingame { background-color: rgba(0,0,0,0.5); position: absolute; top: 0; right: 0; left: 0; bottom: 0; z-index: 1; border-radius: 10px; text-align: center; }
+.wingame:before { content: ''; display: inline-block; height: 100%; vertical-align: middle; margin-right: 0em; margin-top: -1.5em; }
+.text_wingame { display: inline-block; vertical-align: middle; width: 100%; font-size: 3em; color: white; }
+.wingame_comment { font-size: 0.4em; }
+
+@media (max-width: 768px) {
+  .tile_text {font-size: 2em;}
+  .tile:before { margin-top: -3em; }
+  .title_select { font-size: 1.2em ; }
+  .styled-select { margin-left: 20%; }
+  .box.slide.game { background-color: #F6E089; }
+
+  .refresh { color: #695016; }
+  .refresh:hover { color: #695016; }
+
+  .menulink { color: #695016; margin-left: 5px; }
+  .menulink:hover { color: #695016; }
+
+  #select { margin-top: 40%; }
+}

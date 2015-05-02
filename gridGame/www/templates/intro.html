@@ -1,0 +1,384 @@
+<ion-view view-title="Tutorial">
+  <ion-content>
+    <ion-slide-box on-slide-changed="slideHasChanged($index)">
+      <ion-slide>
+        <div class="box slide">
+          <div class="row container_grid">
+          	<div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2 grid_intro">
+          	  <div class="row">
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click(0,0);">
+                           <div class="border">
+                           </div>
+          	  	       <div class="tile_text">
+          	  	    	    {{table[0][0]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click(0,1);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[0][1]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click(0,2);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[0][2]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	  </div>
+          	  <div class="row">
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click(1,0);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[1][0]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click(1,1);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[1][1]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click(1,2);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[1][2]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	  </div>
+          	  <div class="row">
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click(2,0);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[2][0]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click(2,1);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[2][1]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click(2,2);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[2][2]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	  </div>
+          	</div>
+
+          </div>
+          <div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2">
+            <button class="button icon-right ion-chevron-right button-clear button-light next" ng-click="nextSlide();">
+		      NEXT
+		    </button>
+		  </div>
+          <div class="explanation">
+          	Tap on the tiles to add <span class="plus_one">+1</span> to the neighbours
+          </div>
+        </div>
+      </ion-slide>
+      <ion-slide>
+        <div class="box slide">
+          <div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2 limit">
+          	LIMIT = 3
+          </div>
+          <div class="row container_grid">
+          	<div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2 grid_intro">
+          	  <div class="row">
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click2(0,0);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[0][0]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click2(0,1);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[0][1]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click2(0,2);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[0][2]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	  </div>
+          	  <div class="row">
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click2(1,0);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[1][0]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click2(1,1);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[1][1]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click2(1,2);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[1][2]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	  </div>
+          	  <div class="row">
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click2(2,0);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[2][0]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click2(2,1);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[2][1]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3" ng-click="click2(2,2);">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[2][2]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	  </div>
+          	</div>
+
+          </div>
+          <div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2">
+          	<button class="button icon-left ion-chevron-left button-clear button-light previous" ng-click="previousSlide1();">
+		      PREVIOUS
+		    </button>
+            <button class="button icon-right ion-chevron-right button-clear button-light next" ng-click="nextSlide();">
+		      NEXT
+		    </button>
+		  </div>
+          <div class="explanation">
+          	Select the <span class="plus_one">LIMIT</span> after which the tiles turn to 0.
+          </div>
+        </div>
+      </ion-slide>
+      <ion-slide on-swipe-left="nextLastSlide()">
+        <div class="box slide">
+          <div class="row container_grid">
+          	<div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2 grid_intro">
+          	  <div class="win">
+          	  	<div class="text_win"> You won ! </div>
+          	  </div>
+          	  <div class="row">
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[0][0]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[0][1]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[0][2]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	  </div>
+          	  <div class="row">
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[1][0]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[1][1]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[1][2]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	  </div>
+          	  <div class="row">
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[2][0]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[2][1]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	    <div class="col">
+          	  	  <div class="tile_container">
+          	  	    <div class="tile tile-intro size-3">
+          	  	      <div class="border">
+                           </div>
+                          <div class="tile_text">
+          	  	    	{{table[2][2]}}
+          	  		  </div>
+          	  	    </div>
+          	  	  </div>
+          	    </div>
+          	  </div>
+          	</div>
+
+          </div>
+          <div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2">
+          	<button class="button icon-left ion-chevron-left button-clear button-light previous" ng-click="previousSlide2();">
+		      PREVIOUS
+		    </button>
+            <button class="button icon-right ion-chevron-right button-clear button-light next" ng-click="nextLastSlide();">
+		      NEXT
+		    </button>
+		  </div>
+          <div class="explanation">
+          	You win if all of the tiles have the same value !
+          </div>
+        </div>
+      </ion-slide>
+    </ion-slide-box>
+  </ion-content>
+</ion-view>
